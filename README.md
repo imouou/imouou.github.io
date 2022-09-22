@@ -2,4 +2,4 @@
 
 website under construction
 
-Please go to bui official website first.  [www.easybui.com](www.easybui.com)
+Please go to bui official website first.  [www.easybui.com](http://www.easybui.com)
